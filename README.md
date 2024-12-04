@@ -8,7 +8,7 @@ This script allows players to slap each other with a keybind or command. Players
 
 ### Preview
 
-[Watch the video](https://streamable.com/5u1eo9)
+[Watch the video](https://streamable.com/lbb6u1)
 
 ### Features
 
